@@ -79,9 +79,7 @@ Sales show noticeable growth during later months of the year.
 
 Analyzing top-performing products can help businesses focus on profitable segments.
 
-🖼 Dashboard Preview
-
-
+🛠 Tools Used
 
 Power BI – Data visualization and dashboard creation
 
